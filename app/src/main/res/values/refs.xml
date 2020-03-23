@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="imgWillis">@drawable/willistower</drawable>
+    <drawable name="imgPier">@drawable/navypier</drawable>
+    <drawable name="imgWater">@drawable/watertower</drawable>
+</resources>
